@@ -1,0 +1,134 @@
+cd /repogit/TP_AySO
+cd /repogit
+pwd
+cd repogit
+cd TP_AySO
+cat lista_ordenada.txt
+man -k traffic
+man -k dump
+man -WK traffic
+man -wK traffic
+man -wK "dump traffic"
+man -K "dump traffic"
+echo "Comando para realizar un dump traffic: tcpdump \nComando para buscar un comando: man -K [palabras a buscar]" > comando_dump_net.txt
+cat comando_dump_net.txt 
+man sed
+rm comando_dump_net.txt 
+ls -l
+mv lista_ordenada.txt lista_ordenada
+ls -l
+echo $"Comando para realizar un dump traffic: tcpdump\nComando para buscar un comando: man -K [palabras a buscar]" > comando_dump_net
+cat comando_dump_net 
+rm comando_dump_net
+ls -l
+echo "$Comando para realizar un dump traffic: tcpdump\nComando para buscar un comando: man -K [palabras a buscar]" > comando_dump_net
+cat comando_dump_net 
+rm comando_dump_net
+STR=$"Comando para realizar un dump traffic: tcpdump\nComando para buscar un comando: man -r]"
+STR
+echo STR
+echo "$STR" > comando_dump_net
+cat comando_dump_net 
+rm comando_dump_net 
+echo "Comando para realizar un dump traffic: tcpdump" > comando_dump_net
+echo "Comando para buscar un comando: man -K [palabras a buscar]" >> comando_dump_net
+cat comando_dump_net 
+git add .
+git commit -M "ADD: Comando para Capturar y analizar el tráfico de red"
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+git log
+man -K "dump traffic"
+man -k "dump traffic"
+man -wK "dump traffic"
+man -K "dump traffic"
+man -k "dump traffic"
+man -K "dump traffic"
+man -K "heredoc"
+ls -l
+a
+ls -l
+cat README.md
+cat << EOF > README.md
+Alumno: Santiago Collazo
+División: 314
+Turno: Noche
+EOF
+
+cat README.md
+cat << EOF > test.txt
+A
+B
+EOF
+
+cat test.txt
+rm test.txt
+ls -l
+git add .
+git commit -m "docs: Añadida información de alumno a README.md"
+git push
+sed -i "1d" README.md
+sed -i "2d" README.md
+sed -i "3d" README.md
+cat README.md 
+sed -i "1d" README.md
+cat README.md 
+cat << EOF > README.md
+Alumno: Santiago Collazo
+División: 314
+Turno: Noche
+EOF
+
+git add .
+git commit -m "docs: Modificada información de alumno en README.md"
+git push
+cat README.md
+sed -i "1d" README.md
+cat README.md
+cat << EOF > README.md
+Alumno: Santiago Collazo $"\n"
+División: 314 $"\n"
+Turno: Noche
+EOF
+
+git add .
+git commit -m "docs: Modificada información de alumno en README.md"
+git push
+[200~cat << EOF > README.md
+Alumno: Santiago Collazo $"\n"
+División: 314 $"\n"
+Turno: Noche
+EOF
+
+cat << EOF > README.md
+Alumno: Santiago Collazo $"\n"
+División: 314 $"\n"
+Turno: Noche
+EOF
+
+cat README.md
+cat << EOF > README.md
+Alumno: Santiago Collazo
+División: 314
+Turno: Noche
+EOF
+
+cat README.md
+git add .
+git commit -m "docs: Modificada información de alumno en README.md"
+git push
+man history
+cat ../../../.bash_history
+cat ../../.bash_history
+cd ../..
+ls -l
+cd ..
+ls -l
+ls -la
+cd .
+cat .bash_history
+cd repogit/TP_AySO
+cd repogit
+cd vagrant
+cd repogit
+cd TP_AySO/
+history -a
