@@ -1,0 +1,2 @@
+Comando para realizar un dump traffic: tcpdump
+Comando para buscar un comando: man -K [palabras a buscar]
