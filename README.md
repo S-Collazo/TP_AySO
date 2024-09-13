@@ -1,3 +1,3 @@
-Alumno: Santiago Collazo $"\n"
-División: 314 $"\n"
+Alumno: Santiago Collazo
+División: 314
 Turno: Noche
